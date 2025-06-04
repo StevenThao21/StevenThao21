@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Steven Thao</p>
+<p align="left">My name is Steven Thao, and I am a recent Computer Science graduate from Chico State.</p>
 
 ###
 
